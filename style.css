@@ -1,0 +1,18 @@
+#blueEffect {
+  background-color: none;
+}
+#blueEffect:hover {
+  background-color: #02394a;
+}
+
+.img-blur {
+  background-image: url("https://images.wallpaperscraft.com/image/bmw_headlights_car_124112_3840x2400.jpg");
+  background-repeat: no-repeat;
+  filter: blur(4px);
+  background-size: contain;
+  height: 100%;
+}
+
+a {
+  color: white;
+}
