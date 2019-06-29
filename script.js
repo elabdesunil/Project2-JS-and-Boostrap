@@ -26,6 +26,7 @@
 
 function carPreview(model) {
   let theKey = document.getElementById("carPreview");
+  let forPrev = document.getElementsByClassName("forPreview");
   let theImgValue = document.getElementById("forChange").value;
   let theImage = document.getElementById("carDisplay");
 
